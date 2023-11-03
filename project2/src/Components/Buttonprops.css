@@ -1,0 +1,13 @@
+ .white{
+    width: 300px;
+    text-align: center;
+   height: 35px;
+   background-color: aliceblue;
+   color: black;
+}
+ .black{
+    width: 180px;
+   height: 35px;
+   background-color: black;
+   color: white;
+}
